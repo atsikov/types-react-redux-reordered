@@ -1,0 +1,84 @@
+{
+  "name": "@types/react-redux",
+  "version": "7.0.10",
+  "description": "TypeScript definitions for react-redux",
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Qubo",
+      "url": "https://github.com/tkqubo",
+      "githubUsername": "tkqubo"
+    },
+    {
+      "name": "Kenzie Togami",
+      "url": "https://github.com/kenzierocks",
+      "githubUsername": "kenzierocks"
+    },
+    {
+      "name": "Curits Layne",
+      "url": "https://github.com/clayne11",
+      "githubUsername": "clayne11"
+    },
+    {
+      "name": "Frank Tan",
+      "url": "https://github.com/tansongyang",
+      "githubUsername": "tansongyang"
+    },
+    {
+      "name": "Nicholas Boll",
+      "url": "https://github.com/nicholasboll",
+      "githubUsername": "nicholasboll"
+    },
+    {
+      "name": "Dibyo Majumdar",
+      "url": "https://github.com/mdibyo",
+      "githubUsername": "mdibyo"
+    },
+    {
+      "name": "Thomas Charlat",
+      "url": "https://github.com/kallikrein",
+      "githubUsername": "kallikrein"
+    },
+    {
+      "name": "Valentin Descamps",
+      "url": "https://github.com/val1984",
+      "githubUsername": "val1984"
+    },
+    {
+      "name": "Johann Rakotoharisoa",
+      "url": "https://github.com/jrakotoharisoa",
+      "githubUsername": "jrakotoharisoa"
+    },
+    {
+      "name": "Anatoli Papirovski",
+      "url": "https://github.com/apapirovski",
+      "githubUsername": "apapirovski"
+    },
+    {
+      "name": "Boris Sergeyev",
+      "url": "https://github.com/surgeboris",
+      "githubUsername": "surgeboris"
+    },
+    {
+      "name": "Søren Bruus Frank",
+      "url": "https://github.com/soerenbf",
+      "githubUsername": "soerenbf"
+    }
+  ],
+  "main": "",
+  "types": "index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/react-redux"
+  },
+  "scripts": {},
+  "dependencies": {
+    "@types/hoist-non-react-statics": "^3.3.0",
+    "@types/react": "*",
+    "hoist-non-react-statics": "^3.3.0",
+    "redux": "^4.0.0"
+  },
+  "typesPublisherContentHash": "fa421f833be0afd609a00b5f1043632312c1c2551224c2f820433b28ac54e27c",
+  "typeScriptVersion": "3.0"
+}
